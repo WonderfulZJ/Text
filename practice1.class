@@ -1,0 +1,7 @@
+package Main;
+
+public class practice1{
+  public static void main(String args[]){
+  System.out.printf("我要开始学习JAVA了，今天又是知识量满满的一天~");
+  }
+}
